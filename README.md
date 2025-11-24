@@ -18,3 +18,8 @@ To install whois on Arch Linux and Manjaro:
 ```
 sudo pacman -S whois
 ```
+
+
+### ☕ Support
+If you find this useful, you can support my work here:  
+👉 [https://paypal.me/BajzaFerenc](https://paypal.me/BajzaFerenc)
